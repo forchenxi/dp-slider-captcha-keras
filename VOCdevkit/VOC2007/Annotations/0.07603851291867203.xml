@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>0.07603851291867203.jpg</filename>
+	<path>D:\python_project\yidun\keras-yolo3\VOCdevkit\VOC2007\JPEGImages\0.07603851291867203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>73</ymin>
+			<xmax>154</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

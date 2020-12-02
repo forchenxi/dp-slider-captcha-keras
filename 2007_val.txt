@@ -1,0 +1,13 @@
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.04615602025136656.jpg 234,23,273,63,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.1334913301489472.jpg 116,91,156,133,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.21066445089188146.jpg 167,23,207,65,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.28265593427957103.jpg 240,76,280,114,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.29061578467256055.jpg 145,41,184,82,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.48503543166842156.jpg 202,57,243,96,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.5105186869062963.jpg 229,108,270,149,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.6509279835431395.jpg 170,23,210,63,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.7381886385215349.jpg 96,23,137,61,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.8422912722007947.jpg 113,24,152,62,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.9405746907601689.jpg 192,40,233,80,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.985586281980624.jpg 100,89,142,133,0
+D:/python_project/yidun/keras-yolo3/VOCdevkit/VOC2007/JPEGImages/0.988805027131938.jpg 83,38,129,82,0
